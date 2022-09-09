@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Jaishree&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Sep 2022 12:04:06 +0200</lastBuildDate><atom:link href="https://JaishreeJanu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Sep 2022 12:46:03 +0200</lastBuildDate><atom:link href="https://JaishreeJanu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linear versus nonlinear phenomena, their relationship, and algorithmic approaches</title>
+      <link>https://JaishreeJanu.github.io/posts/linear_vs_nonlinear/</link>
+      <pubDate>Fri, 09 Sep 2022 12:46:03 +0200</pubDate>
+      
+      <guid>https://JaishreeJanu.github.io/posts/linear_vs_nonlinear/</guid>
+      <description>Linear versus nonlinear phenomena When the change in the output of a system is directly proportional to the change in input, the system exhibits a linear phenomenon. All other phenomena are nonlinear. Linear phenomena are much simpler and coherent than nonlinear phenomena. Maxwell’s theory of Electromagnetism [1] is a linear phenomenon. Millions of electromagnetic signals travel in space among cell phones through satellites, but they don’t interfere with each other. The data and videos sent via the signals are neither lost nor created during the transmission.</description>
+    </item>
+    
     <item>
       <title>Are Data Structures and Algorithms obsolete today in the age of Machine Learning?</title>
       <link>https://JaishreeJanu.github.io/posts/ds_and_ml/</link>
